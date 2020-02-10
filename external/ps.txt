@@ -1,0 +1,1 @@
+KTH-TIPS is revised based on partition of the testing protocol of each database.
